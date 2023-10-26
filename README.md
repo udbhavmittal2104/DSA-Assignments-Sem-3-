@@ -1,4 +1,7 @@
-# DSA Assignment 1 added
-# DSA Assignment 2 added
-# DSA Assignment 4 added
-# DSA Assignment 5 added
+# Assignments done
+## List:
+Assignment 1
+Assignment 2
+Assignment 3
+Assignment 4
+Assignment 5
